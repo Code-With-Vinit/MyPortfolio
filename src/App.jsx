@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1>Portfolio hai ye mera BKL</h1>
+      <h1>My Portfolio</h1>
     </>
   )
 }
